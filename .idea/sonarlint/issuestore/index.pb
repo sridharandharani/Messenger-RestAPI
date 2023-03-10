@@ -15,9 +15,5 @@ G.idea/sonarlint/issuestore/3/2/322c7d3a57f7612a9a9d9a280e2ad5652e7cb1de,1\8\18
 Q.idea/sonarlint/securityhotspotstore/2/e/2e22b6edd746fa3dc40ad7276c87c8d87d72a392,5\7\57f21a9649435d4c0bebbf63045d868ce2bc78c1
 I
 src/main/webapp/index.jsp,8\e\8e6d3b70c9f5b02570779b0441540d45eceb0ded
-\
-,src/main/java/org/example/model/Message.java,7\8\78a788a4a36449772adc5e00db2e4e1fd18ac3a3
-e
-5src/main/java/org/example/service/MessageService.java,c\d\cd9584f02de0a5311f6758885792e62dc5da8ad7
-l
-<src/test/java/org/example/resources/MessageResourceTest.java,4\9\4900b1eb3222af62a943a359a020df714a7cd17a
+i
+9src/test/java/org/example/service/MessageServiceTest.java,e\c\ec46d8dbfdc7429fd6500a6bb7114c4842224f33

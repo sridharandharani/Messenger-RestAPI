@@ -39,7 +39,7 @@ public class MessageResourceTest {
         messages.add(new Message(2,"WORLD","NAME"));
         when(messageService.getAllMessages()).thenReturn((ArrayList<Message>) messages);
         List<Message> response = messageResource.getMessages();
-        verify(messageService,Mockito.times(1)).getAllMessages();
+        verify(messageService,times(1)).getAllMessages();
         Assert.assertEquals(messages,response);
     }
 
@@ -49,7 +49,7 @@ public class MessageResourceTest {
         messages.add(new Message(1,"HELLO","NAME"));
         when(messageService.getMessage(1L)).thenReturn((ArrayList<Message>) messages);
         List<Message> response = messageResource.getMessage(1L);
-        verify(messageService,Mockito.times(1)).getMessage(1L);
+        verify(messageService,times(1)).getMessage(1L);
         Assert.assertEquals(messages,response);
     }
 
@@ -58,7 +58,7 @@ public class MessageResourceTest {
         Message message = new Message(1,"Hello","name");
         when(messageService.addMessage(message)).thenReturn(message);
         Message response = messageResource.addMessage(message);
-        verify(messageService,Mockito.times(1)).addMessage(message);
+        verify(messageService,times(1)).addMessage(message);
         Assert.assertEquals(message,response);
     }
 

@@ -14,7 +14,7 @@ import java.util.List;
 @Produces(MediaType.APPLICATION_JSON)
 public class MessageResource {
 
-    private static final Logger LOGGER = Logger.getLogger(MessageService.class);
+    private static final Logger LOGGER = Logger.getLogger(MessageResource.class);
 
     MessageService messageService = new MessageService();
 
