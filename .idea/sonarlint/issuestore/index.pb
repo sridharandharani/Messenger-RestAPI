@@ -1,9 +1,23 @@
 
 \
 ,src/main/java/org/example/model/Profile.java,3\2\322c7d3a57f7612a9a9d9a280e2ad5652e7cb1de
-e
-5src/main/java/org/example/database/DatabaseClass.java,3\a\3a9475a5c0549367d20618e73c0bc7b234397f8d
-\
-,src/main/java/org/example/model/Message.java,7\8\78a788a4a36449772adc5e00db2e4e1fd18ac3a3
 O
 src/main/webapp/WEB-INF/web.xml,2\e\2e22b6edd746fa3dc40ad7276c87c8d87d72a392
+S
+#src/main/resources/log4j.properties,7\5\755950bb690295904a49d36e60958901c54013b8
+Å
+Q.idea/sonarlint/securityhotspotstore/3/2/322c7d3a57f7612a9a9d9a280e2ad5652e7cb1de,3\0\306751cf0452ca1a282a6fbbc223aaedad10161b
+w
+G.idea/sonarlint/issuestore/2/e/2e22b6edd746fa3dc40ad7276c87c8d87d72a392,1\8\188792529ee886cbdc6616248007f7a96c73e03d
+w
+G.idea/sonarlint/issuestore/3/2/322c7d3a57f7612a9a9d9a280e2ad5652e7cb1de,1\8\18ea8c204c9810d16defbcf3a64f4c208a9b8117
+Å
+Q.idea/sonarlint/securityhotspotstore/2/e/2e22b6edd746fa3dc40ad7276c87c8d87d72a392,5\7\57f21a9649435d4c0bebbf63045d868ce2bc78c1
+I
+src/main/webapp/index.jsp,8\e\8e6d3b70c9f5b02570779b0441540d45eceb0ded
+\
+,src/main/java/org/example/model/Message.java,7\8\78a788a4a36449772adc5e00db2e4e1fd18ac3a3
+e
+5src/main/java/org/example/service/MessageService.java,c\d\cd9584f02de0a5311f6758885792e62dc5da8ad7
+l
+<src/test/java/org/example/resources/MessageResourceTest.java,4\9\4900b1eb3222af62a943a359a020df714a7cd17a
